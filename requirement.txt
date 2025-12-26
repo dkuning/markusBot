@@ -1,0 +1,5 @@
+vkbottle>=3.0
+pyTelegramBotAPI~=4.29.1
+python-dotenv~=1.2.1
+fuzzywuzzy>=0.18.0
+python-levenshtein>=0.12.0
